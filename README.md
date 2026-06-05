@@ -1,4 +1,6 @@
 - 👋 Olá, sou @gilsonsoares922
+- 🚀 Desenvolvedor Javascipt
+- ✨ Projetos em NodeJS 
 - 👀 Estou interessado em conhecimento em wappler
 - 🌱 Atualmente estou aprendendo programação Wapple
 - 💞️ Procuro colaborar em automação e AWS, Sistema de Monitoramento.
